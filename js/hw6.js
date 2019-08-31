@@ -1,5 +1,5 @@
-// "use strict";
-import { default as users } from "../users.js";
+"use strict";
+import { default as users } from "./users.js";
 
 ////////task1
 const getUserNames = users => {
